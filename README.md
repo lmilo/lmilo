@@ -21,13 +21,6 @@ Desarrollador enfocado en la construcción de aplicaciones escalables y funciona
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Stats de lMilo](https://github-readme-stats.vercel.app/api?username=lmilo&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmilo&layout=compact&theme=dracula&hide_border=true)
-
----
-
 ## ⚡ Intereses Actuales
 - **IA Agents:** Implementación de agentes de IA para la automatización de procesos complejos.
 - **UI/UX:** Creación de diseños visuales más limpios, minimalistas y funcionales.

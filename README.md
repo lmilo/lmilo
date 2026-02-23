@@ -30,4 +30,5 @@ Desarrollador enfocado en la construcción de aplicaciones escalables y funciona
 ---
 
 ## 📫 Contacto
-- **GitHub:** [github.com/lmilo](https://github.com/lmilo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-andres-rinc%C3%B3n-chavez-b18a2518a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmilo)
